@@ -1,3 +1,4 @@
+//Vite configuration file for the frontend build process
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
